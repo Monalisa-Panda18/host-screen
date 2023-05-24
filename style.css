@@ -79,7 +79,7 @@ body {
     border: none;
     outline: none;
     border-radius: 20px;
-    color: #6faa6f;
+    color: black;
     padding: 0  45px;
     background: rgba(255, 255, 225, 0.1);
   }
@@ -100,5 +100,5 @@ body {
   i{
     position:relative;
     top:-32px;
-    left: 17px;
+    left: 18px;
 }
