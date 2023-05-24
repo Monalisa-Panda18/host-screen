@@ -1,0 +1,44 @@
+ body{
+    background-image: linear-gradient(79deg, #349edb,#6facc6 48%,#4d91f7);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    
+}
+
+.input-field{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+height: 40px;
+width: 90%;
+border: none;
+outline: none;
+border-radius: 20px;
+color: #6faa6f;
+padding: 0  45px;
+background: rgba(255, 255, 255, 0.1);
+}
+i{
+    position:relative;
+    top:-33px;
+}
+.submit{
+    height: 40px;
+width: 90%;
+border: none;
+outline: none;
+border-radius: 20px;
+color: #6faa6f;
+padding: 0  60px;
+
+
+}
